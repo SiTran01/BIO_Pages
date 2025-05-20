@@ -18,5 +18,5 @@ To get a bio page up and running in a few minutes, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SiTran01/BIO_Pages.git
+git clone https://github.com/SiTran01/BIO_Pages
 cd BIO_Pages
